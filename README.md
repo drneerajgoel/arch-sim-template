@@ -1,10 +1,9 @@
 # arch-sim-template
 Base template for designing processor simulator
 
-================================================
-Functional Simulator for subset of ARM Processor
-================================================
 
+Functional Simulator for subset of ARM Processr
+===============================================
 README
 
 Table of contents
